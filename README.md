@@ -29,6 +29,8 @@ git clone https://github.com/yourusername/emergency-service-client.git
 The app includes two primary tabs:
 - Zones Tab: Displays a list of zones with names and associated colors indicating incident probability. Tap a zone to view details, including incidents within that zone.
 - Incidents Tab: Displays a list of all incidents with types and statuses. Tap an incident to view its details and change its status.
+  
+![App work](https://github.com/lsyyx/emergency-service-client/blob/main/img/Screen_recording.gif)
 
 ## License
 This project is licensed under the Apache 2.0 License - see the [LICENSE](https://github.com/lsyyx/emergency-service-client/blob/main/LICENSE) file for details.
